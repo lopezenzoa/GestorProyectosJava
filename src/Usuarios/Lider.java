@@ -2,6 +2,7 @@ package Usuarios;
 
 import java.util.ArrayList;
 import java.util.HashSet;
+import Proyecto.Proyecto;
 
 public class Lider extends Usuario {
     private HashSet<Proyecto> proyectosEnCurso;

@@ -1,6 +1,7 @@
 package Usuarios;
 
 import java.util.HashSet;
+import Proyecto.Proyecto;
 
 public class MiembroEquipo extends Usuario {
     private HashSet<Proyecto> proyectosEnCurso;
